@@ -7,6 +7,7 @@ public class SpeedingTicket {
         int number = Integer.parseInt(scanner.nextLine()); //assigning result of scanner to number
         if (number > 120) {  // conditional statement
             System.out.println("Speeding ticket to this gentlemen!");
+            System.out.println("Making changes");
         }
     }
 }
