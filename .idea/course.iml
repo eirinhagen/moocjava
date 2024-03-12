@@ -5,8 +5,20 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/part01-20-37" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/part02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/part03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/part04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/part05" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
